@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d247e9ed1dd04c4c95b6853cbcea9f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Enemy: {instanceID: 0}
+  - player: {instanceID: 0}
+  - summonParticle: {fileID: 462072602192063912, guid: c3a9099940ee89943898a03e8927ce64, type: 3}
+  executionOrder: 20
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
