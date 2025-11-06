@@ -19,12 +19,6 @@ Players must collaborate to survive, manage resources, and achieve high scores.
 <img width="1906" height="953" alt="Screenshot 2025-11-06 094004" src="https://github.com/user-attachments/assets/24b89200-304b-49e7-9a30-9c745e3f3a1e" />
 <p><em>Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.</em></p>
 
-<p><em>Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.</em></p>
-
-> Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.
-
-*Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.*
-
 ---
 
 ## ⚙️ Core Features
@@ -40,7 +34,7 @@ Players must collaborate to survive, manage resources, and achieve high scores.
 <img width="1917" height="1072" alt="Screenshot 2025-11-06 100835" src="https://github.com/user-attachments/assets/99a160a5-df3b-41b0-b10c-2d47a926c909" />
 <img width="1919" height="1079" alt="Screenshot 2025-11-06 100637" src="https://github.com/user-attachments/assets/5efc645a-6cd1-4f62-84ca-9a1618269727" />
 <img width="1850" height="1061" alt="Screenshot 2025-11-06 100824" src="https://github.com/user-attachments/assets/7aa1709e-38d9-4a68-a411-6e09bc045a9f" />
-> Players face waves of AI-controlled robots that use A* pathfinding to identify and pursue the nearest player, adapting their movement around obstacles and reacting dynamically to the environment.
+<p><em>Players face waves of AI-controlled robots that use A* pathfinding to identify and pursue the nearest player, adapting their movement around obstacles and reacting dynamically to the environment.</em></p>
 
 ---
 
@@ -60,7 +54,7 @@ Players must collaborate to survive, manage resources, and achieve high scores.
 
 ## 🧮 Level Grid Visualization
 <img width="2635" height="1869" alt="Grid" src="https://github.com/user-attachments/assets/d485ab7c-42d1-4e3d-b6e8-693a0408b45b" />
-> Grid-based AI navigation system used for A* pathfinding, dynamic wave spawning, and runtime obstacle updates.
+<p><em>Grid-based AI navigation system used for A* pathfinding, dynamic wave spawning, and runtime obstacle updates.</em></p>
 
 ---
 
