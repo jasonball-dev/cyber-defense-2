@@ -17,7 +17,13 @@ Players must collaborate to survive, manage resources, and achieve high scores.
 
 ## 🧩 Lobby Menu
 <img width="1906" height="953" alt="Screenshot 2025-11-06 094004" src="https://github.com/user-attachments/assets/24b89200-304b-49e7-9a30-9c745e3f3a1e" />
+<p><em>Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.</em></p>
+
+<p><em>Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.</em></p>
+
 > Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.
+
+*Lobby interface implemented with Unity UI and Relay services, allowing players to create, list, and join multiplayer sessions in real time.*
 
 ---
 
