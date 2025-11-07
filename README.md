@@ -61,7 +61,7 @@ Players must collaborate to survive, manage resources, and achieve high scores.
 
 ## Team & Responsibilities
 **Jason Ball** – Pathfinding (A*), UI, World setup  
-**Florian Bartling** – Networking, Wave system, Scoreboard  
+**Florian B.** – Networking, Wave system, Scoreboard  
 
 ---
 
