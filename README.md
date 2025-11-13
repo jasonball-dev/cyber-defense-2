@@ -11,7 +11,7 @@ Players must collaborate to survive, manage resources, and achieve high scores.
 - **Genre:** Cooperative shooter  
 - **Mode:** Co-op multiplayer
 - **Objective:** Survive as long as possible while defeating increasingly difficult enemy waves  
-- **Target audience:** Players aged 16+ who enjoy tactical and cooperative gameplay  
+- **Target audience:** Players aged 16+ who enjoy tactical and cooperative gameplay
 
 ---
 
